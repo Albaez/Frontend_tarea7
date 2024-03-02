@@ -1,0 +1,26 @@
+
+.container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+  }
+
+  .App {
+    background-color: #606060;
+  }
+  
+  /* Estilo para los botones */
+  .btn {
+    background-color: #808080;
+    color: #ffffff;
+    border: none;
+    padding: 10px 10px;
+    margin-right: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #606060;
+  }
+  
